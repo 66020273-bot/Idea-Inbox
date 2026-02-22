@@ -1,0 +1,5 @@
+{
+  "name": "Idea Inbox",
+  "description": "A high-speed PWA for capturing thoughts and syncing them to Obsidian.",
+  "requestFramePermissions": []
+}
